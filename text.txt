@@ -1,0 +1,25 @@
+Ordinare una pizza
+Tu non hai fame?!
+Dopo una lunga giornata passata al pc, ho proprio voglia di concedermi una bella pizza succulenta! Sì, ma quale? Fammi dare un occhio al listino… Va beh, è inutile, tanto alla fine ordino sempre la stessa: una classica prosciutto e funghi. La pizza arriva ancora fumante, chissà se riuscirò a mangiarla tutta!
+Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come l’ultima volta! 
+
+ 
+lista listaPizze = [Margherita, Prosciutto e Funghi, Capricciosa ...]
+
+lista ingredientiPizza = [mozzarella, funghi, pomodoro ...]
+
+1.  Il cliente chiede il listino
+2.  Il cliente sceglie la pizza dal listino  
+        Se è la solita, ordina la pizza
+    
+        Altrimenti, ne sceglie un'altra
+        
+3.  Se la pizza è disponibile e ci sono gli ingredienti
+        la pizza viene preparata
+
+        Altrimenti torna al punto 2
+
+4.  All'arrivo valuta se la mangia tutta?
+        Se si, finisce la pizza
+
+        Altrimenti, porta a casa la rimanenza
